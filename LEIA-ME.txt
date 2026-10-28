@@ -1,0 +1,20 @@
+SITE PDV BKP PARA GITHUB PAGES
+
+1) Extraia o ZIP no computador.
+2) Entre no repositório do GitHub chamado SEU_USUARIO.github.io.
+3) Clique Add file > Upload files.
+4) Envie os arquivos index.html e privacidade.html (não é necessário enviar este LEIA-ME.txt).
+5) Commit changes.
+6) Settings > Pages > Deploy from a branch > main > /(root) > Save.
+7) Aguarde publicar e teste:
+   https://SEU_USUARIO.github.io/
+   https://SEU_USUARIO.github.io/privacidade.html
+8) Em Google Cloud Branding:
+   Página inicial = https://SEU_USUARIO.github.io/
+   Política de privacidade = https://SEU_USUARIO.github.io/privacidade.html
+   Domínio autorizado = SEU_USUARIO.github.io (caso a plataforma aceite/verifique esse subdomínio)
+
+Atenção: as páginas incluem o e-mail de contato exibido anteriormente na configuração do Google Cloud. Se não quiser divulgá-lo publicamente, edite as duas páginas antes de publicar.
+
+Não envie Client Secret, tokens OAuth, chaves ou backups a este repositório.
+O Google pode exigir prova de posse do domínio; GitHub Pages não garante aprovação na verificação OAuth.
